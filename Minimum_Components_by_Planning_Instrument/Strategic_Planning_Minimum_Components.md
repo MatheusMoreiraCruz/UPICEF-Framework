@@ -2,40 +2,39 @@
 
 ## Definition
 Strategic Planning (SP) expresses the long-term vision of the city and establishes overarching guidelines to orient public policies and investments in an integrated and continuous manner.  
-Source: Bryson (2018)  
-https://doi.org/10.1002/9781119071603
+Source: [Bryson (2018)](../bibliographic-references.md#bryson-2018)
 
 ## Purpose
 To promote cross-sectoral alignment, continuity across political administrations, and a focus on high-impact outcomes by connecting short- and medium-term decisions to a long-term direction.  
 Sources:  
-- UN-Habitat (2020): https://unhabitat.org  
-- OECD (2019): https://www.oecd.org
+- [UN-Habitat (2020)](../bibliographic-references.md#un-habitat-2020)  
+- [OECD (2019)](../bibliographic-references.md#oecd-2019)
 
 ## Minimum Structural Components
 
 - **Challenges** — Structural problems and opportunities shaping development  
-  (UN-Habitat, 2020)
+  Source: [UN-Habitat (2020)](../bibliographic-references.md#un-habitat-2020)
 
 - **Mission** — Institutional purpose of municipal government in delivering public value  
-  (Bryson, 2018)
+  Source: [Bryson (2018)](../bibliographic-references.md#bryson-2018)
 
 - **Vision** — Desired long-term future state  
-  (Bryson, 2018)
+  Source: [Bryson (2018)](../bibliographic-references.md#bryson-2018)
 
 - **Objectives** — Broad and guiding outcomes (“what” to achieve)  
-  (OECD, 2019)
+  Source: [OECD (2019)](../bibliographic-references.md#oecd-2019)
 
 - **Goals** — Time-bound quantification of objectives (“how much” and “when”)  
-  (IDB, 2020)
+  Source: [IDB (2020)](../bibliographic-references.md#idb-2020)
 
 - **Strategies** — Strategic choices and pathways (“how”)  
-  (Bryson, 2018)
+  Source: [Bryson (2018)](../bibliographic-references.md#bryson-2018)
 
 - **Implementation Plan** — High-level execution roadmap with responsibilities and milestones  
-  (UNDP, 2016)
+  Source: [UNDP (2016)](../bibliographic-references.md#undp-2016)
 
 - **Indicators** — Metrics for monitoring progress and enabling learning and correction  
-  (World Bank, 2017)
+  Source: [World Bank (2017)](../bibliographic-references.md#world-bank-2017)
 
 ## Summary Table
 
