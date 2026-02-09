@@ -1,27 +1,56 @@
-# Minimum Structural Components — Strategic Planning
+# Strategic Planning (SP)
 
-## Purpose of Strategic Planning
+## Definition
+Strategic Planning (SP) expresses the long-term vision of the city and establishes overarching guidelines to orient public policies and investments in an integrated and continuous manner.  
+Source: Bryson (2018)  
+https://doi.org/10.1002/9781119071603
 
-Strategic Planning instruments define long-term directions, priorities, and commitments that guide public action.
-They provide a shared vision and establish the foundations for subsequent managerial and budgetary planning instruments.
-
-From a structural perspective, strategic plans must clearly articulate their objectives, challenges, and monitoring mechanisms to support continuity, evaluation, and institutional learning.
+## Purpose
+To promote cross-sectoral alignment, continuity across political administrations, and a focus on high-impact outcomes by connecting short- and medium-term decisions to a long-term direction.  
+Sources:  
+- UN-Habitat (2020): https://unhabitat.org  
+- OECD (2019): https://www.oecd.org
 
 ## Minimum Structural Components
 
-| Minimum Component | Description | Source |
-|------------------|-------------|--------|
-| Challenges | Identification of major structural or contextual challenges to be addressed | Good practice (strategic planning literature) |
-| Mission | Explicit statement of the institutional purpose | Good practice |
-| Vision | Long-term aspirational description of the desired future | Good practice |
-| Strategic Objectives | Clearly defined long-term objectives | Good practice |
-| Goals / Targets | Measurable or time-bound goals linked to objectives | Good practice |
-| Strategies | Broad approaches or lines of action to achieve objectives | Good practice |
-| Implementation Plan | Description of how strategies will be operationalized | Good practice |
-| Indicators | Metrics to monitor progress toward objectives and goals | Good practice |
+- **Challenges** — Structural problems and opportunities shaping development  
+  (UN-Habitat, 2020)
 
-## Notes
+- **Mission** — Institutional purpose of municipal government in delivering public value  
+  (Bryson, 2018)
 
-- The absence of some traditional components (e.g., mission or vision) does not necessarily invalidate the instrument,
-  but may reduce its structural completeness.
-- Additional components may be included depending on local context or institutional practices.
+- **Vision** — Desired long-term future state  
+  (Bryson, 2018)
+
+- **Objectives** — Broad and guiding outcomes (“what” to achieve)  
+  (OECD, 2019)
+
+- **Goals** — Time-bound quantification of objectives (“how much” and “when”)  
+  (IDB, 2020)
+
+- **Strategies** — Strategic choices and pathways (“how”)  
+  (Bryson, 2018)
+
+- **Implementation Plan** — High-level execution roadmap with responsibilities and milestones  
+  (UNDP, 2016)
+
+- **Indicators** — Metrics for monitoring progress and enabling learning and correction  
+  (World Bank, 2017)
+
+## Summary Table
+
+| Minimum Requirement | Concept | Source |
+|--------------------|--------|--------|
+| Challenges | Structural problems and opportunities | UN-Habitat (2020) |
+| Mission | Institutional purpose | Bryson (2018) |
+| Vision | Desired future state | Bryson (2018) |
+| Objectives | Guiding outcomes | OECD (2019) |
+| Goals | Quantified targets | IDB (2020) |
+| Strategies | Strategic choices | Bryson (2018) |
+| Implementation Plan | Execution roadmap | UNDP (2016) |
+| Indicators | Monitoring metrics | World Bank (2017) |
+
+**Planning Nature:** Political  
+**Time Horizon:** Long-term (10–20 years)  
+**Decision Level:** Strategic  
+**Minimum Number of Components:** 8
