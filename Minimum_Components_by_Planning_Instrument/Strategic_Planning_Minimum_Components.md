@@ -2,7 +2,7 @@
 
 ## Definition
 Strategic Planning (SP) expresses the long-term vision of the city and establishes overarching guidelines to orient public policies and investments in an integrated and continuous manner.  
-Source: [Bryson (2018)](UPICEF-Framework/references/bibliographic-references.md#bryson-2018)
+Source: [Bryson (2018)](.../bibliographic-references.md#bryson-2018)
 
 ## Purpose
 To promote cross-sectoral alignment, continuity across political administrations, and a focus on high-impact outcomes by connecting short- and medium-term decisions to a long-term direction.  
