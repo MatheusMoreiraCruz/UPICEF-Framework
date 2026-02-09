@@ -1,33 +1,86 @@
 # Classification of Urban Planning Instruments by Nature
 
-## Purpose and Rationale
+## Purpose of this Classification
 
-The classification of urban planning instruments by **nature** aims to distinguish documents according to their primary institutional role within public administration. This classification helps clarify *what each instrument is intended to do*, regardless of its content or legal form.
+The classification by **nature** aims to distinguish urban planning instruments according to their **primary institutional function** within public administration. This perspective helps clarify *why* a document exists and *what role* it plays in supporting decision-making, coordination, and implementation.
 
-By categorizing instruments according to their nature, planners and public managers can better understand how political intentions are translated into managerial coordination and, ultimately, into budget execution. This perspective is especially useful for structuring planning systems, identifying overlaps, and supporting completeness evaluations.
+Understanding the nature of planning instruments is essential for:
+- Structuring planning systems coherently  
+- Avoiding overlaps between documents  
+- Defining appropriate expectations regarding content and use  
 
-## Classification Categories
+---
 
-Urban planning instruments are classified into three main categories according to their nature:
+## Categories
 
-- **Political Planning**
-- **Managerial Planning**
-- **Budgetary Planning**
+### 1. Political Planning Instruments
 
-## Classification Table
+**Definition:**  
+Political planning instruments are oriented toward defining **strategic directions, visions, and public commitments**. They express political priorities and long-term aspirations rather than operational details.
 
-| Urban Planning Instrument | Classification by Nature | Description |
-|--------------------------|--------------------------|-------------|
-| Strategic Planning | Political Planning | Defines long-term visions, strategic directions, and political commitments that guide public action. |
-| Goals Plan | Managerial Planning | Translates strategic priorities into measurable goals and initiatives to be monitored during a government term. |
-| Multi-Year Plan (PPA) | Managerial Planning | Organizes government programs, objectives, and actions into a structured planning cycle. |
-| Budget Guidelines Law (LDO) | Budgetary Planning | Establishes fiscal priorities and budget execution rules for a specific fiscal year. |
-| Annual Budget Law (LOA) | Budgetary Planning | Allocates financial resources to programs, projects, and actions, enabling operational execution. |
+**Key Characteristics:**
+- High-level guidance  
+- Strategic and normative orientation  
+- Strong symbolic and political role  
 
-## Practical Implications
+**Typical Components:**
+- Vision and long-term objectives  
+- Strategic goals  
+- Guiding principles  
+- Policy priorities  
 
-This classification supports:
-- Understanding the functional role of each planning instrument
-- Identifying missing or redundant documents in planning systems
-- Structuring completeness assessments based on institutional purpose
-- Improving coherence between political intent, management, and budget execution
+**Examples:**
+- Strategic Plans  
+- Long-term Development Agendas  
+- Government Programs or Platforms  
+
+---
+
+### 2. Managerial Planning Instruments
+
+**Definition:**  
+Managerial planning instruments translate political intentions into **organized programs, objectives, actions, and targets**. They provide a bridge between strategic orientation and operational execution.
+
+**Key Characteristics:**
+- Programmatic and organizational focus  
+- Medium-term orientation  
+- Support monitoring and management  
+
+**Typical Components:**
+- Programs and initiatives  
+- Objectives and targets  
+- Indicators and performance measures  
+- Responsible units  
+
+**Examples:**
+- Goals Plans  
+- Multi-Year Plans (e.g., PPA in Brazil)  
+- Sectoral or thematic plans  
+
+---
+
+### 3. Budgetary Planning Instruments
+
+**Definition:**  
+Budgetary planning instruments are responsible for **allocating financial resources** and authorizing expenditures to implement planned actions.
+
+**Key Characteristics:**
+- Legal and financial nature  
+- Strong formal and normative constraints  
+- Short-term execution focus  
+
+**Typical Components:**
+- Budget allocations  
+- Revenue and expenditure estimates  
+- Financial programs and projects  
+
+**Examples:**
+- Budget Guidelines Laws  
+- Annual Budget Laws  
+- Financial execution plans  
+
+---
+
+## Relevance to UPICEF
+
+This classification supports the UPICEF framework by clarifying the **expected structural components** of each type of instrument, avoiding inappropriate comparisons between documents with different institutional purposes.
