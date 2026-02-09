@@ -1,33 +1,76 @@
 # Classification of Urban Planning Instruments by Temporal Horizon
 
-## Purpose and Rationale
+## Purpose of this Classification
 
-The classification of urban planning instruments by **temporal horizon** organizes documents according to the time span in which they are intended to guide decision-making and public action.
+This classification organizes urban planning instruments according to their **expected duration and time span of influence**.  
+It helps clarify *how long an instrument is intended to guide public action* and supports coherence across planning documents.
 
-This classification helps clarify *when* each instrument operates within the planning cycle and supports analyses of continuity, coherence, and planning maturity. It is particularly useful for understanding how strategic intentions are translated into executable actions over time.
+Classifying instruments by temporal horizon helps:
+- Identify planning continuity and sequencing;
+- Understand how strategic intent is translated into execution;
+- Support monitoring and evaluation cycles;
+- Analyze planning systems as integrated structures.
 
-## Temporal Categories
+---
 
-Urban planning instruments are commonly grouped into three temporal horizons:
+## Categories and Definitions
 
-- **Long-Term**
-- **Medium-Term**
-- **Short-Term**
+### Long-Term Instruments
+
+Long-term instruments define **strategic orientations and future visions** that extend beyond a single government term.
+
+They typically:
+- Address structural challenges and development goals;
+- Establish visions and strategic objectives;
+- Provide long-lasting guidance for public policies.
+
+**Examples:** Strategic Plans, Development Agendas, Long-term Visions.
+
+---
+
+### Medium-Term Instruments
+
+Medium-term instruments translate long-term directions into **programs and structured objectives** over a defined multi-year period.
+
+They typically:
+- Organize policies into programs;
+- Define objectives and performance indicators;
+- Support managerial coordination.
+
+**Examples:** Goals Plans, Multi-Year Plans (PPA).
+
+---
+
+### Short-Term Instruments
+
+Short-term instruments focus on **annual or operational execution**, enabling immediate implementation of policies.
+
+They typically:
+- Authorize expenditures and activities;
+- Support financial control and execution;
+- Ensure short-cycle monitoring and accountability.
+
+**Examples:** Budget Guidelines Laws (LDO), Annual Budget Laws (LOA).
+
+---
 
 ## Classification Table
 
-| Urban Planning Instrument | Temporal Horizon | Description |
-|--------------------------|-----------------|-------------|
-| Strategic Planning | Long-Term | Establishes long-range visions and strategic objectives for urban development. |
-| Goals Plan | Medium-Term | Defines goals and initiatives aligned with a specific government mandate. |
-| Multi-Year Plan (PPA) | Medium-Term | Structures programs and actions over a multi-year planning cycle. |
-| Budget Guidelines Law (LDO) | Short-Term | Sets annual fiscal priorities and budgetary constraints. |
-| Annual Budget Law (LOA) | Short-Term | Authorizes annual expenditures and operational execution. |
+| Planning Instrument        | Temporal Horizon |
+|----------------------------|-----------------|
+| Strategic Planning (SP)    | Long-term       |
+| Goals Plan (GP)            | Medium-term     |
+| Multi-Year Plan (PPA)      | Medium-term     |
+| Budget Guidelines Law (LDO)| Short-term      |
+| Annual Budget Law (LOA)    | Short-term      |
 
-## Practical Implications
+---
 
-This classification supports:
-- Analysis of planning continuity across time
-- Identification of gaps between strategy and execution
-- Evaluation of alignment between long-term objectives and short-term actions
-- Comparative analysis between cities or planning systems
+## Relevance for Structural Evaluation
+
+Different temporal horizons imply **different structural requirements**, especially regarding:
+- Indicators and targets;
+- Monitoring mechanisms;
+- Update and revision cycles.
+
+Recognizing the temporal horizon prevents inappropriate structural expectations during completeness assessment.
