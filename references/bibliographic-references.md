@@ -94,4 +94,4 @@ Establishes the mandatory Goals Plan for the municipal executive branch.
 São Paulo, Brazil.
 
 Available at:  
-https://legislacao.prefeitura.sp.gov.br/leis/emenda-a-lei-organica-30-de-26-de-fevereiro-de-2008
+[https://legislacao.prefeitura.sp.gov.br/leis/emenda-a-lei-organica-30-de-26-de-fevereiro-de-2008](https://legislacao.prefeitura.sp.gov.br/leis/lei-0-de-04-de-abril-de-1990)
