@@ -128,14 +128,6 @@ Functional equivalence and contextual adaptation are encouraged.
 All materials in this repository are intended for academic, governmental,
 and institutional reuse with appropriate attribution.
 
----
-
-## Authors
-
-UPICEF was developed by:
-
-- Matheus Moreira Cruz  
-- [Add additional authors if applicable]
 
 ---
 
