@@ -1,55 +1,43 @@
-# Strategic Planning (SP)
+# Goals Plan (GP)
 
 ## Definition
-Strategic Planning (SP) expresses the long-term vision of the city and establishes overarching guidelines to orient public policies and investments in an integrated and continuous manner.  
-Source: [Bryson (2018)](https://github.com/MatheusMoreiraCruz/UPICEF-Framework/blob/main/references/bibliographic-references.md#bryson-2018)
+The Goals Plan formalizes the commitments of an elected government by translating political promises into measurable objectives and deliverables for the administrative term.  
+Source: [São Paulo Municipality (2008)](/references/bibliographic-references.md#saopaulo-2008)
 
 ## Purpose
-To promote cross-sectoral alignment, continuity across political administrations, and a focus on high-impact outcomes by connecting short- and medium-term decisions to a long-term direction.  
+To ensure that the government program is converted into measurable actions supported by goals and indicators that can be monitored throughout the mandate.  
 Sources:  
-- [UN-Habitat (2020)](.../bibliographic-references.md#un-habitat-2020)  
-- [OECD (2019)](../bibliographic-references.md#oecd-2019)
+- [IDB (2020)](/references/bibliographic-references.md#idb-2020)  
+- [UN-Habitat (2020)](/references/bibliographic-references.md#unhabitat-2020)
 
 ## Minimum Structural Components
 
-- **Challenges** — Structural problems and opportunities shaping development  
-  Source: [UN-Habitat (2020)](../bibliographic-references.md#un-habitat-2020)
+- **Thematic Axes** — Broad priority areas structuring public action  
+  ([UN-Habitat, 2020](/references/bibliographic-references.md#unhabitat-2020))
 
-- **Mission** — Institutional purpose of municipal government in delivering public value  
-  Source: [Bryson (2018)](../bibliographic-references.md#bryson-2018)
+- **Strategic Objectives** — Expected impacts within each thematic axis  
+  ([OECD, 2019)](/references/bibliographic-references.md#oecd-2019)
 
-- **Vision** — Desired long-term future state  
-  Source: [Bryson (2018)](../bibliographic-references.md#bryson-2018)
+- **Goals** — Quantified commitments for the government term  
+  ([São Paulo, 2008)](/references/bibliographic-references.md#saopaulo-2008)
 
-- **Objectives** — Broad and guiding outcomes (“what” to achieve)  
-  Source: [OECD (2019)](../bibliographic-references.md#oecd-2019)
+- **Initiatives** — Projects and actions linked to goals  
+  ([UNDP, 2016)](/references/bibliographic-references.md#undp-2016)
 
-- **Goals** — Time-bound quantification of objectives (“how much” and “when”)  
-  Source: [IDB (2020)](../bibliographic-references.md#idb-2020)
-
-- **Strategies** — Strategic choices and pathways (“how”)  
-  Source: [Bryson (2018)](../bibliographic-references.md#bryson-2018)
-
-- **Implementation Plan** — High-level execution roadmap with responsibilities and milestones  
-  Source: [UNDP (2016)](../bibliographic-references.md#undp-2016)
-
-- **Indicators** — Metrics for monitoring progress and enabling learning and correction  
-  Source: [World Bank (2017)](../bibliographic-references.md#world-bank-2017)
+- **Indicators** — Metrics for monitoring progress  
+  ([IDB, 2020)](/references/bibliographic-references.md#idb-2020)
 
 ## Summary Table
 
 | Minimum Requirement | Concept | Source |
-|--------------------|--------|--------|
-| Challenges | Structural problems and opportunities | UN-Habitat (2020) |
-| Mission | Institutional purpose | Bryson (2018) |
-| Vision | Desired future state | Bryson (2018) |
-| Objectives | Guiding outcomes | OECD (2019) |
-| Goals | Quantified targets | IDB (2020) |
-| Strategies | Strategic choices | Bryson (2018) |
-| Implementation Plan | Execution roadmap | UNDP (2016) |
-| Indicators | Monitoring metrics | World Bank (2017) |
+|-------------------|--------|--------|
+| Thematic Axes | Structuring priorities | [UN-Habitat (2020)](/references/bibliographic-references.md#unhabitat-2020) |
+| Strategic Objectives | Expected impacts | [OECD (2019)](/references/bibliographic-references.md#oecd-2019) |
+| Goals | Quantified commitments | [São Paulo (2008)](/references/bibliographic-references.md#saopaulo-2008) |
+| Initiatives | Projects and actions | [UNDP (2016)](/references/bibliographic-references.md#undp-2016) |
+| Indicators | Monitoring metrics | [IDB (2020)](/references/bibliographic-references.md#idb-2020) |
 
-**Planning Nature:** Political  
-**Time Horizon:** Long-term (10–20 years)  
-**Decision Level:** Strategic  
-**Minimum Number of Components:** 8
+**Planning Nature:** Managerial  
+**Time Horizon:** Medium-term (4 years)  
+**Decision Level:** Tactical  
+**Minimum Number of Components:** 5
