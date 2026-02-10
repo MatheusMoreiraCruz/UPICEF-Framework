@@ -1,16 +1,18 @@
 # Bibliographic References
 
 This document consolidates all bibliographic references used in the UPICEF repository.  
-References are intended to support traceability, transparency, and reuse of the framework artifacts.
+References are provided to ensure traceability, transparency, and reuse of the framework artifacts.
 
 ---
 
 ## Bryson, J. M. (2018)
 <a id="bryson2018"></a>
 
-Bryson, J. M. (2018). *Strategic planning for public and nonprofit organizations:  
+Bryson, J. M. (2018).  
+*Strategic planning for public and nonprofit organizations:  
 A guide to strengthening and sustaining organizational achievement* (5th ed.).  
-Hoboken, NJ: John Wiley & Sons.
+Hoboken, NJ: John Wiley & Sons.  
+https://doi.org/10.1002/9781119071603
 
 ---
 
@@ -45,7 +47,7 @@ https://documents.worldbank.org
 ---
 
 ## Inter-American Development Bank (2020)
-<a id="bid2020"></a>
+<a id="idb2020"></a>
 
 Inter-American Development Bank. (2020).  
 *Managing for development results in the public sector*.  
