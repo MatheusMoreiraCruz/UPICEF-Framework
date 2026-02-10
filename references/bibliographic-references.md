@@ -80,3 +80,18 @@ Brasília: Federal Government.
 Brazil. (2000).
 *Complementary Law No. 101 of May 4, 2000*.
 Brasília: Federal Government.
+
+
+---
+
+
+## São Paulo (2008) – Organic Law Amendment No. 30
+<a id="sao-paulo-2008"></a>
+
+Municipality of São Paulo. (2008).  
+*Organic Law Amendment No. 30 of February 26, 2008*.  
+Establishes the mandatory Goals Plan for the municipal executive branch.  
+São Paulo, Brazil.
+
+Available at:  
+https://legislacao.prefeitura.sp.gov.br/leis/emenda-a-lei-organica-30-de-26-de-fevereiro-de-2008
