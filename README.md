@@ -1,193 +1,202 @@
-# UPICEF – Urban Planning Instruments Completeness Evaluation Framework
+# UPICEF-A – Urban Planning Instruments Completeness and Alignment Framework
 
-UPICEF is a methodological framework designed to evaluate the **structural completeness**
-of urban planning instruments produced by governments.
+UPICEF-A is an extended analytical framework designed to evaluate both the **structural completeness** and the **semantic alignment** of urban planning instruments.
 
-The framework supports public managers, researchers, and evaluators in verifying whether
-planning documents include the **minimum structural components** required to support
-implementation, monitoring, and accountability.
-
-UPICEF focuses on **structure**, not on policy content, political priorities, or outcomes.
+It advances the original UPICEF framework by incorporating mechanisms to assess how planning documents relate to each other across different temporal and institutional levels, enabling a **systematic, measurable, and replicable analysis of planning coherence**.
 
 ---
 
-## What Is Structural Completeness?
+## 🔍 What is UPICEF-A?
 
-Structural completeness refers to the extent to which a planning instrument explicitly
-includes a minimum set of components such as:
+UPICEF-A is a Design Science Research (DSR) artifact that evaluates urban planning systems by combining:
+
+- **Structural completeness analysis** (presence of required components)
+- **Semantic alignment analysis** (relationships between instruments)
+- **Content-based comparison at the instance level**
+
+The framework shifts planning evaluation from a purely formal perspective to a **relational and evidence-based approach**.
+
+As demonstrated in the study, planning instruments may appear consistent individually, but reveal **significant misalignments when analyzed relationally**. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🎯 Purpose of the Framework
+
+UPICEF-A was designed to:
+
+- Evaluate **completeness and alignment simultaneously**
+- Identify **gaps, inconsistencies, and overlaps**
+- Support **data-driven decision-making (DDDM)** in urban governance
+- Enable **comparative and replicable analysis across cities**
+- Provide **diagnostic insights for improving planning coherence**
+
+---
+
+## 🧠 Core Conceptual Dimensions
+
+UPICEF-A is based on three analytical constructs:
+
+- **Alignment** → conceptual consistency between instruments  
+- **Execution** → how strategies are translated into actions  
+- **Forecast** → whether operational actions were previously planned  
+
+These constructs allow evaluating both **coherence and implementation capacity** across planning levels. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🧩 Core Artifacts
+
+UPICEF-A is operationalized through two main artifacts:
+
+### 1. Minimum Components Model (MCM)
+
+Defines the **minimum structural elements** expected in each planning instrument, such as:
 
 - Objectives  
-- Goals or targets  
+- Goals  
 - Indicators  
-- Responsibilities  
-- Implementation or monitoring mechanisms  
+- Strategies  
+- Actions  
+- Monitoring mechanisms  
 
-A document may be legally valid and publicly available but still be structurally incomplete.
-UPICEF addresses this gap by providing a systematic and transparent evaluation approach.
-
----
-
-## Purpose of UPICEF
-
-UPICEF was created to:
-
-- Support **diagnostic assessments** of planning documents  
-- Increase **transparency and traceability** in public planning  
-- Enable **comparative analysis** across instruments or cities  
-- Identify **structural gaps** before content or performance evaluations  
-- Serve as a **replicable reference** adaptable to different institutional contexts  
+The MCM supports the evaluation of **structural completeness**.
 
 ---
 
-## Scope of the Framework
+### 2. Document Relationship Matrix
 
-UPICEF can be applied to different types of urban planning instruments, including:
+Represents **semantic equivalences between components across instruments**, enabling:
 
-- Strategic Planning documents  
-- Goals Plans  
-- Multi-Year Plans  
-- Budget Guidelines Laws  
-- Annual Budget Laws  
+- Identification of relationships based on **meaning, function, and role**
+- Mapping of **interdependencies across planning levels**
+- Support for **alignment, execution, and forecast analysis**
 
-The framework does not impose a fixed list of instruments.
-Each jurisdiction may adapt the instrument set according to its legal and administrative context.
+This matrix is a key innovation of UPICEF-A, enabling **cross-document analysis beyond structure**.
 
 ---
 
-## Core Artifacts in This Repository
+### 3. Comparative Content Analysis (CCA)
 
-This repository contains the following core artifacts that support the conceptual,
-methodological, and empirical dimensions of UPICEF.
+CCA is the mechanism that operationalizes alignment analysis by:
 
----
+- Comparing **content between semantically equivalent components**
+- Establishing **many-to-many relationships (m × n comparisons)**
+- Measuring alignment using correspondence metrics
 
-### 📁 Classifications of Planning Instruments
-
-This artifact provides taxonomies used to organize planning instruments according to:
-
-- Planning nature  
-- Time horizon  
-- Decision-making level  
-
-These classifications support the contextual interpretation of planning instruments and
-guide the application of the framework.
+This enables **quantitative measurement of alignment**, which is traditionally assumed but rarely verified.
 
 ---
 
-### 📁 Minimum Components by Planning Instrument
+## ⚙️ Framework Application Process
 
-This artifact defines the **Minimum Component Model (MCM)** adopted by UPICEF.
+UPICEF-A follows a structured analytical workflow:
 
-It includes reference definitions for:
+1. **Document collection** (official planning instruments)
+2. **Component extraction**
+3. **Structural completeness assessment (MCM)**
+4. **Adjustment of relationship matrix**
+5. **Content comparison (CCA)**
+6. **Quantitative and qualitative analysis**
+7. **Interpretation (alignment, execution, forecast)**
 
-- Strategic Planning (SP)  
-- Goals Plan (GP)  
-- Multi-Year Plan (PPA)  
-- Budget Guidelines Law (LDO)  
-- Annual Budget Law (LOA)  
-
-Each document describes:
-
-- Conceptual definition  
-- Institutional purpose  
-- Minimum structural components  
-- Justification based on literature and institutional practices  
+This process ensures **transparency, traceability, and reproducibility**.
 
 ---
 
-### 📁 Framework Application Process
+## 📊 What Makes UPICEF-A Different?
 
-This artifact describes the operational methodology for applying UPICEF in real-world contexts.
+Unlike traditional approaches, UPICEF-A:
 
-It defines a five-stage application workflow:
+- Does **not evaluate only structure**
+- Does **not rely solely on indicators or outcomes**
+- Does **not assume alignment**
 
-1. Document Collection  
-2. Component Extraction  
-3. Component Comparison  
-4. Qualitative and Quantitative Analysis  
-5. Interpretation and Discussion  
+Instead, it:
 
-The process ensures methodological transparency, reproducibility, and analytical consistency
-when applying the framework to planning instruments.
+- **Measures alignment explicitly**
+- Identifies **where planning breaks down**
+- Reveals **gaps between strategy and execution**
 
----
+The São Paulo case study showed that:
 
-### 📁 UPICEF Application – City of São Paulo
-
-This artifact presents an empirical case study demonstrating the application of UPICEF
-to the planning instruments of the City of São Paulo (Brazil).
-
-It includes:
-
-- Collected planning instruments  
-- Extracted structural components  
-- Component comparison matrices  
-- Completeness indicators  
-- Qualitative and quantitative analysis results  
-
-This case study serves as a proof-of-concept and as a reference for replication in
-other cities or institutional contexts.
+- Planning instruments are **formally aligned**
+- But **execution is significantly weaker**, especially in budget instruments :contentReference[oaicite:2]{index=2}
 
 ---
 
-### 📁 Bibliographic References
+## 🌍 Scope of Application
 
-This artifact consolidates legal, institutional, and academic sources supporting:
+UPICEF-A can be applied to:
 
-- Component definitions  
-- Instrument classifications  
-- Framework methodological choices  
+- Strategic Planning (SP / PE)
+- Master Plans (PD)
+- Goals Plans (GP / PM)
+- Multi-Year Plans (PPA)
+- Budget Guidelines Laws (LDO)
+- Annual Budget Laws (LOA)
 
----
-
-## How UPICEF Should Be Used
-
-The recommended application workflow is:
-
-1. Identify the planning instruments to be evaluated  
-2. Collect official planning documents  
-3. Extract structural components present in each instrument  
-4. Compare extracted components with the UPICEF minimum reference model  
-5. Calculate completeness indicators  
-6. Interpret structural strengths and gaps  
-
-UPICEF results should be used to support:
-
-- Planning document revision  
-- Institutional learning  
-- Governance improvement initiatives  
+The framework is **adaptable to different institutional contexts and countries**.
 
 ---
 
-## What UPICEF Does Not Do
+## 🚫 What UPICEF-A Does NOT Do
 
-UPICEF does **not**:
+UPICEF-A does **not**:
 
-- Evaluate policy quality or effectiveness  
-- Assess political priorities or ideological alignment  
-- Measure implementation performance  
-- Replace content-based or outcome-based evaluations  
+- Evaluate policy effectiveness
+- Assess political priorities
+- Measure performance outcomes
+- Replace impact evaluation methods
 
-UPICEF is a **foundational diagnostic tool**.
-
----
-
-## Adaptability and Reuse
-
-UPICEF is designed as a **reference framework**, not a rigid model.
-
-- Component names may vary across documents  
-- Additional components may be included  
-- Legal and institutional contexts may differ  
-
-Functional equivalence and contextual adaptation are encouraged.
+It is a **diagnostic and analytical framework** focused on **structure and relationships**.
 
 ---
 
-## License and Reuse
+## 🔄 Evolution from UPICEF
 
-All materials in this repository are intended for academic, governmental,
-and institutional reuse with appropriate attribution.
+| Aspect | UPICEF | UPICEF-A |
+|------|--------|----------|
+| Focus | Structural completeness | Completeness + Alignment |
+| Analysis level | Document-level | Cross-document |
+| Method | Component verification | CCA + semantic analysis |
+| Output | Completeness gaps | Alignment, execution, forecast |
+
+UPICEF-A represents a **significant methodological advancement**, integrating structural and semantic perspectives.
+
+---
+
+## 📁 Repository Contents
+
+This repository includes:
+
+- MCM definitions for planning instruments  
+- Document relationship matrices  
+- CCA procedures and criteria  
+- Case study (São Paulo)  
+- Supporting datasets and analysis artifacts  
+
+All materials are publicly available to ensure:
+
+- Transparency  
+- Replicability  
+- Reuse  
+
+---
+
+## 🚀 Future Directions
+
+The framework highlights the need for:
+
+- **Automation using NLP techniques**
+- Scalability improvements
+- Application in different cities and governance contexts
+
+---
+
+## 📜 License and Reuse
+
+This repository is intended for academic, governmental, and institutional use with proper attribution.
+
 
 ---
 
